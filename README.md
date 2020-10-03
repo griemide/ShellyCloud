@@ -3,6 +3,8 @@ Public project
 
 Homepage [Shelly Cloud](https://shelly.cloud/) - by Allterco Robotics EOOD, Bulgaria, Sofia
 
+Shelly **Forum** [Deutsch](https://www.shelly-support.eu/forum/)
+
 ## API examples
 
 Shelly [Common HTTP API](https://shelly-api-docs.shelly.cloud/#common-http-api)
