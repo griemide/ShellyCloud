@@ -2,7 +2,7 @@
 Public project
 
 Homepage [Shelly Cloud](https://shelly.cloud/) - by Allterco Robotics EOOD, Bulgaria, Sofia  
-Homepage [Product Catalogue](https://shelly.cloud/documents/catalogues/catalogue.pdf)  
+Homepage [Current Product Catalogue](https://shelly.cloud/documents/catalogues/catalogue.pdf)  
 
 Shelly **Forum** [Deutsch](https://www.shelly-support.eu/forum/)
 
