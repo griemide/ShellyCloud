@@ -1,7 +1,8 @@
 # ShellyCloud
 Public project
 
-Homepage [Shelly Cloud](https://shelly.cloud/) - by Allterco Robotics EOOD, Bulgaria, Sofia
+Homepage [Shelly Cloud](https://shelly.cloud/) - by Allterco Robotics EOOD, Bulgaria, Sofia  
+Homepage [Product Catalogue](https://shelly.cloud/documents/catalogues/catalogue.pdf)  
 
 Shelly **Forum** [Deutsch](https://www.shelly-support.eu/forum/)
 
@@ -22,3 +23,7 @@ http://192.168.0.123/settings
 ## Projects
 
 Private [Shelly](https://github.com/griemide/Shelly)
+
+[]()  
+[]()  
+[]()  
