@@ -13,15 +13,20 @@ Shelly [Common HTTP API](https://shelly-api-docs.shelly.cloud/#common-http-api)
 http://192.168.33.1 (Access Point)
 
 ### API examples (Application)
-http://192.168.0.123/relay/0?turn=on  
-http://192.168.0.123/relay/0?turn=off  
-http://192.168.0.123/relay/0?turn=toggle  
 http://192.168.0.123/status   
 http://192.168.0.123/settings   
-#### Duo
-http://192.168.0.136/light/0?turn=toggle  
-http://192.168.178.71/light/0?turn=toggle  
 
+#### Shelly 1
+http://192.168.0.251/relay/0?turn=on  
+http://192.168.0.251/relay/0?turn=off  
+http://192.168.0.251/relay/0?turn=toggle  
+
+#### Shelly Plug S
+http://192.168.0.222/relay/0?turn=toggle
+
+#### Shelly Duo
+http://192.168.0.136/light/0?turn=toggle  (AF104)
+http://192.168.178.71/light/0?turn=toggle  (MPS3)
 
 ## Projects
 
