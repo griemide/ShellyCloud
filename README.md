@@ -25,8 +25,8 @@ http://192.168.0.251/relay/0?turn=toggle
 http://192.168.0.222/relay/0?turn=toggle
 
 #### Shelly Duo
-http://192.168.0.136/light/0?turn=toggle  (AF104)
-http://192.168.178.71/light/0?turn=toggle  (MPS3)
+http://192.168.0.136/light/0?turn=toggle  (AF104)  
+http://192.168.178.71/light/0?turn=toggle  (MPS3)  
 
 ## Projects
 
