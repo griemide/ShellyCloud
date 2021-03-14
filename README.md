@@ -30,6 +30,7 @@ http://192.168.178.71/light/0?turn=toggle  (MPS3)
 
 ## Projects
 
+Public [Node-RED flow Shelly](https://github.com/griemide/Node-RED/blob/main/flows/readme.md)  
 Private [Shelly](https://github.com/griemide/Shelly)
 
 []()  
