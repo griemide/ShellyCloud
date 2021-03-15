@@ -22,11 +22,18 @@ http://192.168.0.251/relay/0?turn=off
 http://192.168.0.251/relay/0?turn=toggle  
 
 #### Shelly Plug S
+AF104:  
 http://192.168.0.222/relay/0?turn=toggle
+MPS3:  
+http://192.168.178.65/relay/0?turn=toggle
 
 #### Shelly Duo
-http://192.168.0.136/light/0?turn=toggle  (AF104)  
-http://192.168.178.71/light/0?turn=toggle  (MPS3)  
+AF104:  
+http://192.168.0.136/light/0?turn=toggle 
+MPS3:  
+http://192.168.178.70/light/0?turn=toggle  
+http://192.168.178.70/light/0?turn=on    
+http://192.168.178.70/light/0?turn=off    
 
 ## Projects
 
