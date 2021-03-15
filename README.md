@@ -12,9 +12,12 @@ Shelly [Common HTTP API](https://shelly-api-docs.shelly.cloud/#common-http-api)
 ### API example (Initial Configuration)
 http://192.168.33.1 (Access Point)
 
-### API examples (Application)
-http://192.168.0.123/status   
-http://192.168.0.123/settings   
+### API examples (Application)  
+AF104:  
+http://192.168.0.222/status    
+http://192.168.0.222/settings   
+MPS3:  
+http://192.168.178.70/status    
 
 #### Shelly 1
 http://192.168.0.251/relay/0?turn=on  
