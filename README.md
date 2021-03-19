@@ -18,7 +18,7 @@ http://192.168.0.222/shelly
 http://192.168.0.222/status    
 http://192.168.0.222/settings   
 http://192.168.0.222/ota/check   
-http://192.168.0.222/debug/log   
+http://192.168.0.222/debug/log1   
 MPS3:  
 http://192.168.178.70/status    
 
