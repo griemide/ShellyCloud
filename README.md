@@ -35,7 +35,9 @@ http://192.168.178.65/relay/0?turn=toggle
 
 #### Shelly Duo
 AF104:  
-http://192.168.0.136/light/0?turn=toggle  
+http://192.168.0.74/light/0?turn=toggle  
+http://192.168.0.74/light/0?turn=on  
+http://192.168.0.74/light/0?turn=off  
 MPS3:  
 http://192.168.178.70/light/0?turn=toggle   
 http://192.168.178.70/light/0?turn=on    
