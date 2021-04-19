@@ -46,7 +46,12 @@ http://192.168.178.70/light/0?turn=off
 ## Projects
 
 Public [Node-RED flow Shelly](https://github.com/griemide/Node-RED/blob/main/flows/readme.md)  
+
+
+Private [Node-RED flow Shelly](https://github.com/griemide/Shelly/blob/master/flows/readme.md)
 Private [Shelly](https://github.com/griemide/Shelly)
+
+
 
 []()  
 []()  
