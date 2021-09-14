@@ -5,6 +5,8 @@ Homepage [Shelly Cloud](https://shelly.cloud/) - by Allterco Robotics EOOD, Bulg
 Homepage [Current Product Catalogue](https://shelly.cloud/documents/catalogues/catalogue.pdf)  
 
 Shelly **Forum** [Deutsch](https://www.shelly-support.eu/forum/)
+ 
+Private Shelly [Installationen](https://github.com/griemide/Shelly/tree/master/installation)
 
 ## API description
 Shelly [Common HTTP API](https://shelly-api-docs.shelly.cloud/#common-http-api)
