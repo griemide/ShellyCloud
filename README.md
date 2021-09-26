@@ -45,6 +45,9 @@ http://192.168.178.70/light/0?turn=toggle
 http://192.168.178.70/light/0?turn=on    
 http://192.168.178.70/light/0?turn=off    
 
+### Scripting
+http://192.168.0.81/rpc/script.getstatus?id=1
+
 ## Projects
 
 Public [Node-RED flow Shelly](https://github.com/griemide/Node-RED/blob/main/flows/readme.md)  
