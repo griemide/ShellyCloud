@@ -48,7 +48,7 @@ http://192.168.178.70/light/0?turn=off
 ### Scripting
 http://192.168.0.81/rpc/script.getstatus?id=1
 
-Github [Altelrgo examles](https://github.com/ALLTERCO/shelly-script-examples)
+Github [ALLTERCO examples](https://github.com/ALLTERCO/shelly-script-examples)
 
 ## Projects
 
